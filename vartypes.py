@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+
+
+#Python aviable types include Numbers(integers-int, float, complex), String, List, Tuple, Dictionary
+
 a = 100
 b = 12.00
 c = 'second one'
