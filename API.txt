@@ -1,0 +1,4 @@
+API Key:
+00ElBaRxalZWZ6c4yZE6ysl5jQUpCw0btphl5b2R6qQu
+URL:
+https://api.us-south.language-translator.watson.cloud.ibm.com/instances/927b56b0-7fa1-4b2d-bbf3-49053bf3e6f8
